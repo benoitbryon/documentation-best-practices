@@ -1,0 +1,5 @@
+#######################
+301 - Moved Permanently
+#######################
+
+The project has moved to `Docness <http://docness.readthedocs.org>`_.
